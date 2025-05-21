@@ -6,8 +6,8 @@
 
 # Links
 
-## Dragon's child studios
-###  - [https://dragonschildstudios.com](https://dragonschildstudios.com)
+## Dragon's child group
+###  - [https://dragonschild.com](https://dragonschild.com)
 
 ## Toastielab
 ###  - [https://toastielab.dev](https://toastielab.dev)
